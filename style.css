@@ -1,0 +1,20 @@
+.card {
+width: 626px;
+height: 348px;
+background-image:url('br.webp');
+border-radius: 50px;
+color: white;
+font-family: 'Roboto', sans-serif;
+}
+
+
+.card-name {
+text-align: center;
+margin: 0;
+padding-top: 110px;
+}
+.my-name {
+text-align: center;
+margin: 0;
+padding-top: 50px;
+}
